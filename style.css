@@ -1,0 +1,17 @@
+.heading1{
+    color:beige
+}
+
+.heading{
+    color:beige
+}
+
+canvas{
+    border: 5px solid white; 
+    border-radius: 20px;
+}
+
+body{
+    background-size: cover;
+}
+
